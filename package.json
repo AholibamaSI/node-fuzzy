@@ -1,0 +1,36 @@
+{
+  "name": "node-fuzzy",
+  "version": "1.0.4",
+  "description": "Búsqueda Fuzzy sobre un Array Object",
+  "keywords": [
+    "search",
+    "search deep",
+    "fuzzy"
+  ],
+  "engines": {
+    "node": ">= 0.1"
+  },
+  "main": "./lib/node-fuzzy",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AholibamaSI/node-fuzzy.git"
+  },
+  "author": "Aholibama Soto",
+  "maintainers": [
+    "aholibamasi <dsotoibw@gmail.com>"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peraferrer/node-fuzzy/issues"
+  },
+  "homepage": "https://github.com/AholibamaSI/node-fuzzy#readme",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
